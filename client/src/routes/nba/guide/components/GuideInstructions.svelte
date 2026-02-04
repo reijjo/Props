@@ -63,7 +63,28 @@
 			]
 		},
 		{
-			header: 'BIG SPREAD + HIGH TOTAL (≥8 pts)',
+			header: 'MEDIUM SPREAD (5.5–8 pts) + LOW/NORMAL TOTAL',
+			subHeader: '(controlled game, sneaky minutes risk)',
+			ranking: '(⭐⭐⭐)',
+			starHeader: '(32–36 min, clear usage)',
+			starHeader2: '',
+			stars: [
+				'⚠️ Points OVER – best when (a) star is on the UNDERDOG (chasing usage), or (b) you take modest ladders (20+/25+ more than 30+)',
+				'⚠️ Assists OVER – only primary handler AND opponent is weak at preventing assists / plays faster than average',
+				'✅ Rebounds OVER – good for star bigs (misses create boards; can get there even in slower pace)',
+				'❌ 3PM OVER – usually pass unless elite high‑volume shooter (role is literally “shoot 3s”)'
+			],
+			stars2: [],
+			nonStarHeader: '(18–28 min)',
+			nonStars: [
+				'✅ Rebounds OVER – best non‑star angle here (energy rebounders, backup bigs with steady minutes)',
+				'⚠️ Points OVER – only if minutes are stable (starter-ish) or there’s an injury boost',
+				'❌ Assists OVER – usually pass (needs minutes + teammates converting)',
+				'❌ 3PM OVER – mostly pass unless the line is tiny (1+) and player’s only job is to shoot'
+			]
+		},
+		{
+			header: 'BIG SPREAD (≥8 pts) + HIGH TOTAL',
 			subHeader: '(blowout risk shootout)',
 			ranking: '(⭐⭐)',
 			starHeader: '(Favorite)',
@@ -82,7 +103,7 @@
 			]
 		},
 		{
-			header: 'BIG SPREAD + LOW/NORMAL TOTAL (≥8 pts)',
+			header: 'BIG SPREAD (≥8 pts) + LOW/NORMAL TOTAL',
 			subHeader: '(defensive blowout)',
 			ranking: '(⭐)',
 			starHeader: '(Favorite)',

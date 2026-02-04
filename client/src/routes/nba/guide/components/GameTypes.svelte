@@ -19,6 +19,7 @@
 		padding: 1rem 2rem;
 		display: flex;
 		flex-direction: column;
+		justify-content: space-between;
 		align-items: center;
 		gap: 0.75rem;
 	}
